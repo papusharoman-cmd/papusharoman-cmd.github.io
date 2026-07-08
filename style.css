@@ -20,6 +20,10 @@ h1 {
 }
 
 .special {
-  text-align: left;
+  text-align: justify;
+}
+
+#video:hover {
+  color: #FAF47D
 }
   
