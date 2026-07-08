@@ -8,4 +8,10 @@ body {
 
 img {
   width: 500px;
+  align: center;
 }
+
+h1 {
+  font-family: 'Instrument Serif', serif;
+}
+  
