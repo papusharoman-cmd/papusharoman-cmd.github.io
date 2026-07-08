@@ -21,13 +21,13 @@ h1 {
 
 h5 {
   font-weight: italic;
+
 }
 
 .special {
   text-align: justify;
+  line-height: 1.4;
 }
-
-
 
 .nice:hover {
   color: #FAF47D
