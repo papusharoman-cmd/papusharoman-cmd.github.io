@@ -7,8 +7,9 @@ body {
 }
 
 img {
-  width: 500px;
-  align: center;
+  width: 600px;
+  display: block;
+  margin: 0 auto;
 }
 
 h1 {
