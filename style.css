@@ -16,12 +16,18 @@ img {
 h1 {
   font-family: 'Instrument Serif', serif;
   text-align: center; 
-  letter-spacing: 2px;
+  letter-spacing: 1px;
+}
+
+h5 {
+  font-weight: italic;
 }
 
 .special {
   text-align: justify;
 }
+
+
 
 .nice:hover {
   color: #FAF47D
