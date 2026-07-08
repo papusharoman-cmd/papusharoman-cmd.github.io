@@ -33,6 +33,12 @@ h5 {
   color: #BAAB49
 }
 
+#render-container {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+
 .container {
   display: flex;                      /* 1. Включаем Flexbox для контейнера */
   justify-content: center !important; /* 2. Теперь это правило сработает и отцентрирует кнопку */
