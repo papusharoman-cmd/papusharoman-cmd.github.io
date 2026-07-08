@@ -10,10 +10,13 @@ img {
   width: 600px;
   display: block;
   margin: 0 auto;
+  opacity: 0.9;
 }
 
 h1 {
   font-family: 'Instrument Serif', serif;
+  text-align: center; 
+  letter-spacing: 2px;
 }
 
 .special {
