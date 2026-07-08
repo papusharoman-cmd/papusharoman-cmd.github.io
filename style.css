@@ -32,4 +32,8 @@ h5 {
 .nice a:hover {
   color: #BAAB49
 }
+
+button {
+  text-align: left;
+}
   
